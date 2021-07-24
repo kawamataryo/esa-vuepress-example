@@ -9,6 +9,7 @@ const config = () => {
     lang: "ja",
     title: "esa vuepress starter",
     dest: "dist",
+    base: "/esa-vuepress-starter/",
     themeConfig: {
       navbar: [
         {
