@@ -7,9 +7,10 @@ const config = () => {
 
   return defineUserConfig<DefaultThemeOptions>({
     lang: "ja",
-    title: "esa vuepress starter",
+    title: "esa vuepress example",
+    description: "An example of using esa as a CMS and creating a static site with VuePress v2.",
     dest: "dist",
-    base: "/esa-vuepress-starter/",
+    base: "/esa-vuepress-example/",
     themeConfig: {
       navbar: [
         {

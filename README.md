@@ -1,5 +1,5 @@
-# esa-vuepress-sample
-Sample repository for creating a static site with VuePress v2 using esa as CMS.
+# esa-vuepress-example
+An example of using esa as a CMS and creating a static site with VuePress v2.
 
 ### [demo](kawamataryo.github.io/esa-vuepress-starter/)
 
