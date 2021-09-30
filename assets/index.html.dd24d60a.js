@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Sample Page Home",lang:"ja",frontmatter:{},excerpt:"",headers:[{level:2,title:"Ligula odio",slug:"ligula-odio",children:[]}],filePathRelative:null,git:{}};export{e as data};
